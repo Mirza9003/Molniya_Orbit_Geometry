@@ -132,4 +132,4 @@ Released under the MIT License. See `LICENSE` (add one when you publish).
 
 ## Author
 
-*<Your name>* — <affiliation / link>. Contributions and corrections welcome.
+*<Mirza Md Tasnim Mukarram>* 
