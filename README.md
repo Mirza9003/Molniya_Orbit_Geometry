@@ -88,7 +88,7 @@ The notebook has no data dependencies and runs top to bottom in a few seconds.
 
 ```
 .
-├── molniya_orbit_workshop.ipynb   # the workshop (derivations, code, figures)
+├── molniya_orbit_calculation.ipynb   #(derivations, code, figures)
 ├── assets/
 │   ├── molniya_orbit.png          # orbit visualization (README preview)
 │   └── orbital_speed.png          # speed-vs-anomaly figure (README preview)
