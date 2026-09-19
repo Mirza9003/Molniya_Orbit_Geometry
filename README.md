@@ -6,7 +6,7 @@ and then locates the **Sun–Earth L1 Lagrange point**. Built as a teaching and
 reference notebook for anyone working with satellite geometry in remote
 sensing and Earth observation.
 
-![Molniya orbit with hourly satellite positions](assets/molniya_orbit.png)
+![Molniya orbit with hourly satellite positions](molniya_orbit.png)
 
 <p align="center"><em>The satellite lingers near apogee (right) and races
 through perigee (left) — the "apogee dwell" that makes highly elliptical
@@ -59,7 +59,7 @@ result:
 | Sun–Earth L1 distance | ~1.49 million km |
 
 <p align="center">
-  <img src="assets/orbital_speed.png" width="620"
+  <img src="orbital_speed.png" width="620"
        alt="Total vs. transverse orbital speed against true anomaly">
 </p>
 
