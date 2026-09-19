@@ -1,6 +1,6 @@
 # Molniya Orbit Geometry and the Sun–Earth L1 Point
 
-A compact, self-contained orbital-mechanics workshop that derives the full
+A compact, self-contained orbital-mechanics calculation that derives the full
 geometry of a **Molniya orbit** from first principles, visualizes its motion,
 and then locates the **Sun–Earth L1 Lagrange point**. Built as a teaching and
 reference notebook for anyone working with satellite geometry in remote
